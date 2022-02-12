@@ -4,6 +4,9 @@
 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-lleshi&show_icons=true&count_private=true&theme=algolia)]()
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alleshi&theme=algolia)]()
+
+## :zap: GitHub Contributions
+
   [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=a-lleshi)]()
 
 ## 👨‍💻 My Skills 
