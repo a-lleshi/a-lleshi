@@ -1,6 +1,17 @@
-# Hi there, I'm Abdi - aka [a-lleshi][github] 👋 
+# Hi there, I'm Abdi - aka [a-lleshi] 👋 
 
-:zap: GitHub Stats
+## :zap: GitHub Stats
 
-  <img align="left" alt="Abdis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=a-lleshi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
-  <img align="left" alt="Abdi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lleshi&theme=algolia">
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-lleshi&show_icons=true&count_private=true&theme=algolia)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-lleshi&theme=algolia")]()
+  [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=a-lleshi)](https://github.com/a-lleshi/github-contribution-stats/)
+
+## My Skills 👨‍💻
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
