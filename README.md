@@ -3,10 +3,10 @@
 ## :zap: GitHub Stats
 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-lleshi&show_icons=true&count_private=true&theme=algolia)]()
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a-lleshi&theme=algolia")]()
-  [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=a-lleshi)](https://github.com/a-lleshi/github-contribution-stats/)
+  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=a-lleshi&theme=algolia)]()
+  [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=a-lleshi)]()
 
-## My Skills 👨‍💻
+## 👨‍💻 My Skills 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
