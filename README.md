@@ -3,7 +3,7 @@
 ## :zap: GitHub Stats
 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-lleshi&show_icons=true&count_private=true&theme=algolia)]()
-  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alleshi&theme=algolia)]()
+  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&alleshi&layout=compact&&theme=algolia&link=https://www.github.com/alleshi/)]()
 
 ## :zap: GitHub Contributions
 
