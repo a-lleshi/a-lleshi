@@ -1,6 +1,6 @@
 # Hi there, I'm Abdi - aka [a-lleshi] 👋 
 
-## :zap: GitHub Stats
+## :zap: Wakatime Stats
 
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alleshi&layout=compact&theme=algolia)](https://github.com/a-lleshi)
 
