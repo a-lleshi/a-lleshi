@@ -2,12 +2,11 @@
 
 ## :zap: GitHub Stats
 
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-lleshi&show_icons=true&count_private=true&theme=algolia)](https://github.com/a-lleshi)
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alleshi&layout=compact&theme=algolia)](https://github.com/a-lleshi)
 
 ## :zap: GitHub Contributions
 
-  [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=a-lleshi)](https://github.com/a-lleshi)
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-lleshi&show_icons=true&count_private=true&theme=algolia)](https://github.com/a-lleshi)
 
 ## 👨‍💻 My Skills 
 
