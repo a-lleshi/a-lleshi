@@ -1,4 +1,4 @@
-# Hi there, I'm Abdi - aka [a-lleshi] 👋 
+# Hi there, I'm Abdi 👋 
 
 ## :zap: Wakatime Stats
 
