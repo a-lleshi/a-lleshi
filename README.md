@@ -3,6 +3,7 @@
 ## :zap: Wakatime Stats
 
   [![wakatime](https://wakatime.com/badge/user/e51838f2-adab-486b-9d25-4b89659eff1c.svg)](https://wakatime.com/@e51838f2-adab-486b-9d25-4b89659eff1c)
+  
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alleshi&layout=compact&theme=algolia)](https://github.com/a-lleshi)
 
 ## :zap: GitHub Contributions
