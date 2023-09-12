@@ -19,3 +19,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 👨‍💻
+![Monki Coding](https://camo.githubusercontent.com/2d545c0e1fed8ea2641988bf214de8f2bb9610b36a772b069ab1d64010fc2cd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313232396d6c7474676f386152322f67697068792e676966)
