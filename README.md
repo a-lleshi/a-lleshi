@@ -1,5 +1,5 @@
 # HEY 👋 
-
+<div align=”center”>
 ![Monki Coding](https://camo.githubusercontent.com/2d545c0e1fed8ea2641988bf214de8f2bb9610b36a772b069ab1d64010fc2cd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313232396d6c7474676f386152322f67697068792e676966)
 
 ## :zap: Wakatime Stats
@@ -24,3 +24,4 @@
 
 ##
 > What's reality? I don't know. When my bird was looking at my computer monitor I thought, 'That bird has no idea what he's looking at.'
+</div>
