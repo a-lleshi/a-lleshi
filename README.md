@@ -42,7 +42,7 @@
 
 <div align="center">
 
-> What's reality? I don't know. When my bird was looking at my computer monitor I thought, 'That bird has no idea what he's looking at.'
+
 
 </div>
 
