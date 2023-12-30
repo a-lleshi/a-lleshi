@@ -1,7 +1,7 @@
 # HEY 👋 
 <div align="center">
   
-![Monki Coding](https://camo.githubusercontent.com/2d545c0e1fed8ea2641988bf214de8f2bb9610b36a772b069ab1d64010fc2cd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f313232396d6c7474676f386152322f67697068792e676966)
+![Monki Coding](https://media.giphy.com/media/1229mlttgo8aR2/giphy.gif)
 
 </div>
 
