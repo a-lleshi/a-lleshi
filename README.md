@@ -1,7 +1,5 @@
-# HEY 👋 
+# HEY 
 <div align="center">
-  
-![Monki Coding](https://media.giphy.com/media/1229mlttgo8aR2/giphy.gif)
 
 </div>
 
